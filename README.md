@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-# Aplicação Docker + Laravel 8 + Vue.JS
+# Aplicação Docker + Nginx + Laravel 8 + Vue.JS
 
 ## Instalação
 
